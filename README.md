@@ -1,10 +1,10 @@
-﻿<div align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1000&color=FFB454&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=90&lines=%3E+booting+akmal-07...;%3E+loading+modules...;%3E+system+ready.)](https://git.io/typing-svg)
 
 ```
 node     :  Mohammed Akmal K M
-domain   :  AI/ML  ├ù  Software Eng  ├ù  Algorithms
+domain   :  AI/ML  x  Software Eng  x  Algorithms
 status   :  building
 ```
 
@@ -14,10 +14,10 @@ status   :  building
 
 ## active
 
-**UniCampus** ΓÇö AI-powered campus platform
+**UniCampus** — AI-powered campus platform
 
 ```
-stack    MERN ┬╖ Claude API ┬╖ LangChain (RAG)
+stack    MERN · Claude API · LangChain (RAG)
 modules  10
 status   BUILDING
 ```
@@ -29,20 +29,20 @@ status   BUILDING
 | case | stack | status |
 |---|---|---|
 | `BLOGSPHERE` | MERN | `SHIPPED` |
-| `MATCH-API` | Node.js ┬╖ Express | `SHIPPED` |
-| `HMS` | Java ┬╖ Swing ┬╖ JDBC ┬╖ MySQL | `SHIPPED` |
-| `MANDIPREDICT` | Python ┬╖ ML | `CONCEPT` |
+| `MATCH-API` | Node.js · Express | `SHIPPED` |
+| `HMS` | Java · Swing · JDBC · MySQL | `SHIPPED` |
+| `MANDIPREDICT` | Python · ML | `CONCEPT` |
 
 ---
 
 ## trace
 
 ```
-GREEDY              ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ONLINE
-ARRAYS / HASHING    ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûæΓûæΓûæ  RECURRING
-SLIDING WINDOW      ΓûêΓûêΓûêΓûêΓûêΓûêΓûæΓûæΓûæΓûæ  RECURRING
-TREES / GRAPHS      ΓûêΓûêΓûêΓûêΓûæΓûæΓûæΓûæΓûæΓûæ  BUILDING
-DYNAMIC PROGRAMMING ΓûêΓûêΓûæΓûæΓûæΓûæΓûæΓûæΓûæΓûæ  QUEUED
+GREEDY              ##########  ONLINE
+ARRAYS / HASHING    #######...  RECURRING
+SLIDING WINDOW      ######....  RECURRING
+TREES / GRAPHS      ####......  BUILDING
+DYNAMIC PROGRAMMING ##........  QUEUED
 ```
 
 ---
@@ -50,11 +50,11 @@ DYNAMIC PROGRAMMING ΓûêΓûêΓûæΓûæΓûæΓûæΓûæΓûæΓûæΓûæ
 ## stack
 
 ```
-CORE         C++ ┬╖ Python ┬╖ Java ┬╖ JavaScript
-INTERFACE    React ┬╖ Node.js ┬╖ Express ┬╖ MongoDB
-AI           Python ┬╖ Claude API ┬╖ LangChain
-SYSTEMS      Linux ┬╖ Git ┬╖ GitHub
-DATA         MySQL ┬╖ JDBC
+CORE         C++ · Python · Java · JavaScript
+INTERFACE    React · Node.js · Express · MongoDB
+AI           Python · Claude API · LangChain
+SYSTEMS      Linux · Git · GitHub
+DATA         MySQL · JDBC
 ```
 
 ---
@@ -78,6 +78,6 @@ DATA         MySQL ┬╖ JDBC
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3000&pause=1500&color=4ADE80&background=0D111700&center=true&vCenter=true&width=400&lines=%3E+system+%3A%3A+ONLINE+%7C+next_commit+%3A%3A+pending)](https://git.io/typing-svg)
 
-`mohammedakmal2007@gmail.com` ┬╖ [linkedin](https://www.linkedin.com/in/mohammed-akmal-k-m-31a1b325a/)
+`mohammedakmal2007@gmail.com` · [linkedin](https://www.linkedin.com/in/mohammed-akmal-k-m-31a1b325a/)
 
 </div>
